@@ -1,0 +1,8 @@
+{
+  "data_source": {
+    "API_URL": "https://api.open-meteo.com/v1/forecast",
+    "latitude": -6.2,
+    "longitude": 106.8,
+    "parameters": ["temperature_2m", "relativehumidity_2m"]
+  }
+}
