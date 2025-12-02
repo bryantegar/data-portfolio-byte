@@ -3,7 +3,6 @@ numpy
 requests
 matplotlib
 scikit-learn
-prophet
 streamlit
 sqlalchemy
-postgresql
+psycopg2-binary
